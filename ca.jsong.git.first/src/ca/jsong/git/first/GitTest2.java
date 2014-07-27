@@ -6,6 +6,7 @@ public class GitTest2 {
 		System.out.println("Hello World 1");
 		System.out.println("Hello World 2");
 		System.out.println("Hello World 3 branch1");
+		System.out.println("Hello World 3 branch1 second change");
 
 	}
 
